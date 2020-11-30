@@ -25,5 +25,16 @@
             "setupvalue": true,
             "traceback": true
         }
+    },
+    "292439477": {
+        "Name": "Phantom Forces",
+        "Functions": {
+            "getgc": true,
+            "getupvalues": true,
+            "isexploitfunction": true,
+            "islclosure": true,
+            "newdrawing": true,
+            "require": true
+        }
     }
 }
