@@ -31,6 +31,7 @@
         "Functions": {
             "getgc": true,
             "getupvalues": true,
+            "hookfunction": true,
             "isexploitfunction": true,
             "islclosure": true,
             "newdrawing": true,
