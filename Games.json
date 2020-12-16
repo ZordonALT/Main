@@ -53,13 +53,17 @@
     "2377868063": {
         "Name": "Strucid",
         "Functions": {
+            "getgc": true,
+            "getinfo": true,
             "getnamecallmethod": true,
             "getrawmetatable": true,
+            "getupvalue": true,
             "hookfunction": true,
             "makereadonly": true,
             "makewriteable": true,
             "newcclosure": true,
-            "newdrawing": true
+            "newdrawing": true,
+            "require": true
         }
     }
 }
