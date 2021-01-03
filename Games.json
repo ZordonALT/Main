@@ -31,6 +31,7 @@
             "getinfo": true,
             "getrawmetatable": true,
             "getupvalue": true,
+            "hookfunction": true,
             "islclosure": true,
             "makereadonly": true,
             "makewriteable": true,
@@ -60,30 +61,20 @@
             "getinfo": true,
             "getnamecallmethod": true,
             "getrawmetatable": true,
+            "getrenv": true,
+            "getsenv": true,
             "getupvalue": true,
-            "hookfunction": true,
             "makereadonly": true,
             "makewriteable": true,
             "newcclosure": true,
             "newdrawing": true,
-            "require": true
+            "require": true,
+            "traceback": true
         }
     },
     "2633045061": {
         "Name": "Strucid BR Queue",
-        "Functions": {
-            "getgc": true,
-            "getinfo": true,
-            "getnamecallmethod": true,
-            "getrawmetatable": true,
-            "getupvalue": true,
-            "hookfunction": true,
-            "makereadonly": true,
-            "makewriteable": true,
-            "newcclosure": true,
-            "newdrawing": true,
-            "require": true
-        }
+        "Functions": {}
     },
     "2674164583": {
         "Name": "Strucid Battle Royale",
@@ -92,13 +83,15 @@
             "getinfo": true,
             "getnamecallmethod": true,
             "getrawmetatable": true,
+            "getrenv": true,
+            "getsenv": true,
             "getupvalue": true,
-            "hookfunction": true,
             "makereadonly": true,
             "makewriteable": true,
             "newcclosure": true,
             "newdrawing": true,
-            "require": true
+            "require": true,
+            "traceback": true
         }
     }
 }
