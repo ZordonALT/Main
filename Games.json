@@ -29,8 +29,12 @@
         "Functions": {
             "getgc": true,
             "getinfo": true,
-            "hookfunction": true,
+            "getrawmetatable": true,
+            "getupvalue": true,
             "islclosure": true,
+            "makereadonly": true,
+            "makewriteable": true,
+            "newcclosure": true,
             "newdrawing": true,
             "require": true
         }
